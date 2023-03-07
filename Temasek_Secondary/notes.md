@@ -25,7 +25,7 @@ Use the functions `.append()` and `.remove()`
 
 Dictionaries - `{'apples': 3, 'pears': 4}` 
 
-Creating new key,value pair: \
+Adding to dictionary: \
   `my_dict['oranges'] = 5` 
  
  Getting items from dictionary: \
@@ -34,9 +34,17 @@ Creating new key,value pair: \
  ---
  
  If statements - 
+ 
  ```
  if (value < 5):
   print(value)
  else:
   print(other_value)
  ```
+ 
+ For statements -
+
+```
+for num in my_list:
+  print(num)
+```
