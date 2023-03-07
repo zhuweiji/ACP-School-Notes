@@ -23,7 +23,8 @@ Use the functions `.append()` and `.remove()`
 
 ---
 
-Dictionaries - `{'apples': 3, 'pears': 4}` \
+Dictionaries - `{'apples': 3, 'pears': 4}` 
+
 Creating new key,value pair: \
   `my_dict['oranges'] = 5` 
  
