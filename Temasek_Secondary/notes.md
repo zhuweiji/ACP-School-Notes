@@ -23,11 +23,11 @@ Use the functions `.append()` and `.remove()`
 
 ---
 
-Dictionaries - `{'apples': 3, 'pears': 4}`
-Creating new key,value pair:
-  `my_dict['oranges'] = 5`
+Dictionaries - `{'apples': 3, 'pears': 4}` \
+Creating new key,value pair: \
+  `my_dict['oranges'] = 5` 
  
- Getting items from dictionary:
+ Getting items from dictionary: \
   `num_apples = my_dict['apples']`
   
  
