@@ -30,4 +30,12 @@ Creating new key,value pair: \
  Getting items from dictionary: \
   `num_apples = my_dict['apples']`
   
+ ---
  
+ If statements - 
+ ```
+ if (value < 5):
+  print(value)
+ else:
+  print(other_value)
+ ```
