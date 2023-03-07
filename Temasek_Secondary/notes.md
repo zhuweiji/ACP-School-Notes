@@ -12,7 +12,11 @@ Numbers - 1,2,3
 Strings - "hello", "thomas"
 
   `my_string = 'thomas'`
+
 ---
 
-Lists - [1,2,3]
-They can contain 
+Lists - [1,2,3], [1,2,'a'], ['hello','world'], [], [1]
+
+Collection of several items
+Can be indexed with `[]`
+Use the `.append()` and `.remove()` functions
