@@ -84,3 +84,28 @@ functions:
 def my_func(x,y):
   # code here
 ```
+
+importing:
+ ```
+ 
+ library: math
+ ---------------
+ degrees()
+ radians()
+ pi
+---------------- 
+ 
+ # method 1: import library
+ import math
+ a = math.radians(5)
+ 
+ # method 2: import a function from a library
+ from math import radians
+ a = radians(5)
+ 
+ # method 3: import all functions from library (wildcard import)
+ from math import *
+ 
+ a = radians(5)
+ 
+ ```
